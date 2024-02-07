@@ -22,7 +22,7 @@ function ChatRoom() {
   };
 
   // More code will go here
-
+  //study ai
   return (
     <div className="chat-room">
       // The chat room components will go here
